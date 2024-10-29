@@ -1,0 +1,1 @@
+The StringExpression function converts a string-based mathematical expression with numbers written in words (like "oneplustwo") into a numeric calculation, evaluates it, and returns the result with each digit written as a word. For example, it converts "oneplustwo" into "three" or "nineminuseight" into "one."
